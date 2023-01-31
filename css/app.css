@@ -1,12 +1,12 @@
 body {
-    background-color: palevioletred;
+    background-color: lightblue;
 }
 
 h1 {
     text-align: center;
-    color: white;
+    color: darkblue;
 }
-a {color: white;}
-p{ color: white;}
+a {color: darkblue;}
+p{ color: darkblue;}
 
 img {max-width: 500px;}
